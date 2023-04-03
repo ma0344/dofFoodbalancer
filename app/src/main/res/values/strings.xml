@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">dofFoodbalancer</string>
+    <string name="current_calories">合計:%1$8d kcal\n残:%2$8d kcal</string>
+    <string name="total_calories">%1$8d</string>
+    <string name="left_calories">%1$8d</string>
+    <string name="target_calories_edit_text_description">目標カロリー入力欄</string>
+    <string name="target_calories_hint">kcal</string>
+    <string name="pet_name_hint">ペットの名前</string>
+    <string name="add_pet_button">ペット追加</string>
+    <string name="preference_file_key">your_preference_file_key</string>
+    <string name="invalid_pet_info">リストが空です</string>
+    <string name="pet_name_spinner_description">ペットの名前を選択するスピナー</string>
+    <string name="save_button">保存</string>
+    <string name="food_seekbar_value">%1$d kcal</string>
+    <string name="food_seekbar_grams">%d g</string>
+    <string name="intake_calories_label">目標カロリー量</string>
+    <string name="kcal_label">kcal</string>
+    <string name="add_food_button">新規フード追加</string>
+    <string name="delete_selected_foods_button">選択を削除</string>
+    <string name="finish_selection_button">選択終了</string>
+    <string name="total_cal_text">合計:</string>
+    <string name="left_cal_text">　残:</string>
 </resources>
